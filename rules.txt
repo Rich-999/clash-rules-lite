@@ -1,5 +1,5 @@
 payload:
-  - 'cqg.com'
+  - '+.cqg.com'
   - '265.com'
   - '2mdn-cn.net'
   - '2mdn.net'
