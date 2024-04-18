@@ -1,6 +1,7 @@
 payload:
   - '+.cqg.com'
   - '+.exness.com'
+  - '+.typekit.net'
   - '265.com'
   - '2mdn-cn.net'
   - '2mdn.net'
